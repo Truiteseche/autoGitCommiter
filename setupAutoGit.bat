@@ -1,2 +1,2 @@
-cd C:/Users/Mael/Desktop
-git clone https://github.com/Truiteseche/autoGitRecipient.git
+cd %USERPROFILE%/Desktop
+git clone https://github.com/[YOUR_ACCOUNT]/autoGitRecipient.git
